@@ -1,0 +1,8 @@
+target/
+*.class
+data/
+moneyflow-frontend/node_modules/
+moneyflow-frontend/dist/
+*.zip
+.DS_Store
+.vscode/

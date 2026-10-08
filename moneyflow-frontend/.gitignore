@@ -1,0 +1,19 @@
+# Java / Maven
+target/
+*.class
+
+# Spring / H2
+data/
+
+# Frontend
+moneyflow-frontend/node_modules/
+moneyflow-frontend/dist/
+
+# Arquivos compactados
+*.zip
+
+# Sistema
+.DS_Store
+
+# VS Code
+.vscode/
